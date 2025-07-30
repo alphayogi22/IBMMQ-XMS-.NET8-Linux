@@ -1,0 +1,6 @@
+# -- Build output (don’t track) --
+bin/
+obj/
+# -- OS files --
+.DS_Store
+Thumbs.db

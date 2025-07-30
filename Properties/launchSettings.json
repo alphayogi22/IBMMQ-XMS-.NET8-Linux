@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "IBMXMSConsumer": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
